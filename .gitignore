@@ -1,0 +1,4 @@
+.envrc
+.idea
+cf-templates.iml
+*.json
